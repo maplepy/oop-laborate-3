@@ -1,0 +1,7 @@
+D:\Programs\C#\OOP_Laborate\bin\Debug\OOP_Laborate.exe.config
+D:\Programs\C#\OOP_Laborate\bin\Debug\OOP_Laborate.exe
+D:\Programs\C#\OOP_Laborate\bin\Debug\OOP_Laborate.pdb
+D:\Programs\C#\OOP_Laborate\obj\Debug\OOP_Laborate.csprojAssemblyReference.cache
+D:\Programs\C#\OOP_Laborate\obj\Debug\OOP_Laborate.csproj.CoreCompileInputs.cache
+D:\Programs\C#\OOP_Laborate\obj\Debug\OOP_Laborate.exe
+D:\Programs\C#\OOP_Laborate\obj\Debug\OOP_Laborate.pdb
