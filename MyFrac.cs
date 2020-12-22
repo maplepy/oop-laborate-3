@@ -12,9 +12,13 @@ namespace OOP_Laborate
 
         public MyFrac(long _nom, long _denom)
         {
+            if(_denom == 0)
+            {
+                throw new DivideByZeroException();
+            }
             long gcd = GCD(_nom, _denom);
-            nom = Math.Abs(_nom) / gcd;
-            denom = Math.Abs(_denom) / gcd;
+            nom = _nom / gcd;
+            denom = _denom / gcd;
         }
         private long GCD(long a, long b)
         {
